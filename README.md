@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="banner.png" width="100%" alt="Shakthi Nagarajan Banner">
+<img src="banner.png.png" width="100%" alt="Shakthi Nagarajan Banner">
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Software+Engineer;Full+Stack+Developer;Java+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
