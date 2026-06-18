@@ -29,8 +29,7 @@
 ### 📫 Connect with me:
 - **Email:** shakthi11.dev@gmail.com
 - **Phone:** 6374186403
-- **LinkedIn 1:** [shakthi-n-335387357](https://www.linkedin.com/in/shakthi-n-335387357/)
-- **LinkedIn 2:** [shakthi-nagarajan-b58855402](https://www.linkedin.com/in/shakthi-nagarajan-b58855402/)
+- **LinkedIn:** [shakthi-nagarajan-b58855402](https://www.linkedin.com/in/shakthi-nagarajan-b58855402/)
 - **GitHub:** [shakthi-DEV11](https://github.com/shakthi-DEV11)
 
 <br />
@@ -55,14 +54,6 @@
 
 <br />
 
-<!-- GitHub Streak -->
-### 🔥 GitHub Streak:
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakthi-DEV11&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br />
-
 <!-- Activity Graph -->
 ### 📈 GitHub Activity Graph:
 <div align="center">
@@ -78,9 +69,3 @@
 | **Project Alpha** | A brief description of what this project does and the tech stack used. | [View Project](#) |
 | **Project Beta** | A brief description of what this project does and the tech stack used. | [View Project](#) |
 
-<br />
-
-<!-- Visitor Counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/shakthi-DEV11/count.svg" alt="Visitor Count" />
-</div>
