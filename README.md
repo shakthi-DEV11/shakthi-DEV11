@@ -124,33 +124,6 @@ I strive to follow these practices in my development process:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakthi-DEV11&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 </div>
 
-## 🗺️ Backend Roadmap
-
-```text
-Core Java (Completed)
-    ↓
-OOP + Collections (Completed)
-    ↓
-SQL + Database (Learning)
-    ↓
-Spring Core (Learning)
-    ↓
-Spring Boot (Learning)
-    ↓
-REST APIs (Next)
-    ↓
-JPA / Hibernate (Next)
-    ↓
-Spring Security + JWT
-    ↓
-Testing
-    ↓
-Docker
-    ↓
-CI/CD
-    ↓
-System Design
-```
 
 ## 📫 Connect With Me
 
