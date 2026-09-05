@@ -2,70 +2,158 @@
 
 <!-- Banner -->
 <img src="banner.png.png" width="100%" alt="Shakthi Nagarajan Banner">
+<br />
+<br />
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Software+Engineer;Full+Stack+Developer;Java+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
+# Hi, I'm Shakthi Nagarajan
+
+### Java Backend Developer | B.Tech IT Student
+
+*Building backend systems with Java, Spring Boot, REST APIs and relational databases.*
 
 </div>
 
-<!-- Introduction -->
-### Hi there 👋, I'm Shakthi!
+---
 
-🔭 I'm actively seeking Software Development Internship opportunities and open to work.
+## 👨‍💻 About Me
 
-🌱 I'm currently learning Java, React, Node.js, MongoDB, JavaScript, HTML, CSS, and Data Structures & Algorithms.
+I am a B.Tech IT student with a strong focus on **Java Backend Development**. I am actively building scalable backend applications and APIs. My primary focus is strengthening my foundation in Core Java, Object-Oriented Programming (OOP), SQL, and backend engineering principles. I consistently practice problem-solving (DSA) and build projects to better understand real-world software architecture and maintainable code.
 
-💼 I'm actively looking for a Software Development Internship (Frontend, Full Stack, or Java Developer roles).
+## 🚀 Currently Building
 
-💬 Ask me about Java, MERN Stack, Web Development, Git, GitHub, HTML, CSS, and JavaScript.
+- **Core Java & OOP:** Deepening my understanding of Collections, Multithreading, and Exception Handling
+- **Problem Solving:** Consistently practicing DSA
+- **Spring Boot & REST APIs:** Learning to build robust and scalable APIs
+- **Database Design:** Working with SQL and relational databases (MySQL, PostgreSQL)
+- **Architecture:** Understanding clean architecture and layered application design
+- **Testing:** Learning unit testing with JUnit
 
-🎯 My goal is to become a Software Engineer and build scalable, high-quality web applications.
+## 🛠️ Technology Stack
 
-⚡ Fun fact: I enjoy building real-world projects, learning new technologies, and solving coding challenges every day.
+### Backend
+Java | Spring Boot (Learning) | Spring MVC (Learning) | REST API | Spring Data JPA (Learning) | Hibernate (Learning)
 
-<br />
+### Database
+MySQL | PostgreSQL | SQL
 
-<!-- Contact Info -->
-### 📫 Connect with me:
-- **Email:** shakthi11.dev@gmail.com
-- **Phone:** 6374186403
-- **LinkedIn:** [shakthi-nagarajan-b58855402](https://www.linkedin.com/in/shakthi-nagarajan-b58855402/)
-- **GitHub:** [shakthi-DEV11](https://github.com/shakthi-DEV11)
+### Testing
+JUnit (Learning) | Mockito (Learning)
 
-<br />
+### Tools
+Git | GitHub | Maven | Postman | IntelliJ IDEA
 
-<!-- Skills -->
-### 💻 Skills & Tools:
-<div align="center">
+### Currently Learning
+Spring Security | JWT | Docker | CI/CD | System Design
+
+<br>
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mongodb,mysql,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,git,github,maven,postman,idea&theme=dark" alt="Tech Stack" />
   </a>
 </div>
+<br>
 
-<br />
+## ☕ Core Java Knowledge
 
-<!-- GitHub Stats & Top Languages -->
-### 📊 GitHub Analytics:
+I am building a strong foundation in Core Java, emphasizing:
+- **OOP Principles:** Encapsulation, Inheritance, Polymorphism, Abstraction
+- **Core Concepts:** Constructors, `this`/`super`, Method Overloading/Overriding
+- **Structure:** Interfaces, Abstract Classes
+- **Robustness:** Exception Handling
+- **Data Structures:** Collections Framework, Generics, Arrays, Strings, StringBuilder/StringBuffer
+- **Advanced Features:** Java 8+ features, Streams, File Handling, Multithreading
+
+## ⚙️ Backend Engineering Concepts
+
+In my backend journey, I am focusing on:
+- RESTful API design
+- Layered architecture (Controller / Service / Repository pattern)
+- Data Transfer Objects (DTOs)
+- Entity relationships and JPA/Hibernate
+- Input validation and Global exception handling
+- HTTP status codes
+- Authentication & Authorization concepts
+- Database transactions
+
+## 🚧 Backend Projects In Progress
+
+Currently, my GitHub repositories are focused on learning materials, but I am actively developing real-world backend projects that will be published soon.
+
+### 1. Java Practice & OOP Concepts
+A comprehensive repository containing my daily Java practice, focusing on Core Java, OOP principles, and basic algorithm implementations.
+**Tech:** Java
+*Status: In Development (Local)*
+
+### 2. E-Commerce API (Planned)
+Designing a RESTful backend for an e-commerce platform with layered architecture, user authentication, and product management.
+**Tech:** Java | Spring Boot | MySQL | REST API
+*Status: Planning Phase*
+
+## 🧠 Problem Solving
+
+I regularly practice Data Structures and Algorithms to improve my problem-solving skills, focusing on:
+- Arrays & Strings
+- Searching & Sorting algorithms
+- Two Pointers & Hashing
+- Recursion
+- Linked Lists, Stacks, and Queues
+
+## 💡 Engineering Principles
+
+I strive to follow these practices in my development process:
+- Write readable and clean code
+- Separate business logic from controllers
+- Validate input rigorously
+- Handle exceptions properly
+- Use meaningful naming conventions
+- Avoid unnecessary duplication (DRY)
+- Write testable code
+- Prefer maintainable solutions over clever but unreadable code
+- Document APIs and use Git consistently
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakthi-DEV11&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakthi-DEV11&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shakthi-DEV11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakthi-DEV11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <br />
 
-<!-- Activity Graph -->
-### 📈 GitHub Activity Graph:
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakthi-DEV11&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakthi-DEV11&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 </div>
 
-<br />
+## 🗺️ Backend Roadmap
 
-<!-- Featured Projects -->
-### 🚀 Featured Projects:
-| Project | Description | Link |
-| ------- | ----------- | ---- |
-| **Project Alpha** | A brief description of what this project does and the tech stack used. | [View Project](#) |
-| **Project Beta** | A brief description of what this project does and the tech stack used. | [View Project](#) |
+```text
+Core Java (Completed)
+    ↓
+OOP + Collections (Completed)
+    ↓
+SQL + Database (Learning)
+    ↓
+Spring Core (Learning)
+    ↓
+Spring Boot (Learning)
+    ↓
+REST APIs (Next)
+    ↓
+JPA / Hibernate (Next)
+    ↓
+Spring Security + JWT
+    ↓
+Testing
+    ↓
+Docker
+    ↓
+CI/CD
+    ↓
+System Design
+```
 
+## 📫 Connect With Me
+
+- **GitHub:** [@shakthi-DEV11](https://github.com/shakthi-DEV11)
+- **LinkedIn:** [Shakthi Nagarajan](https://www.linkedin.com/in/shakthi-nagarajan-b58855402/)
+- **Email:** shakthi11.dev@gmail.com
